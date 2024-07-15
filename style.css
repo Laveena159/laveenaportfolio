@@ -1,0 +1,37 @@
+.educationSection {
+  color: goldenrod;
+  padding: 20px;
+  text-align: left;
+}
+body {
+  background-color: black;
+  margin: 40px;
+}
+.info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  word-spacing: 20px;
+  padding: auto;
+  color: goldenrod;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+.block:hover {
+  transform: scale(1.2);
+  box-shadow: 0 0 10px rgba(237, 193, 16, 0.5);
+}
+a {
+  color: rgb(218, 165, 32);
+  text-decoration: none;
+}
+
+.block {
+  text-align: center;
+}
+.ContactSection {
+  color: goldenrod;
+  padding: 20px;
+  text-align: center;
+}
+nav block {
+}
